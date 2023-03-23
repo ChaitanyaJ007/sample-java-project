@@ -50,3 +50,10 @@ environment set up -- one that works across many projects -- should be
 able to clone the repository and do a build simply by running the
 build program with no special arguments. There should be no need to
 edit or install anything into the project space for the initial build.
+
+## Assignment 
+
+In this assignment it is expected of you to fork any public repo of 
+your choice and then clone it to your local machine and make use of the
+Git commands to edit, commit and branch out from the master one and 
+then push the changes to the GitHub.
